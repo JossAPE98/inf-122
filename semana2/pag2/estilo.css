@@ -1,0 +1,61 @@
+body{
+    font-family: 'Nunito';
+    margin: 0;
+    background: var(--Background, #2B2E34);
+}
+
+:root{
+    --white: #FFFFFF;
+    --black: #000000;
+    --gray:#2B2E34
+    --yelow:#d1ae31
+    --gray-blue:#0D1423 
+    --purple: #6F2CFF;
+    --light-purple: #EFE9F9;
+    --red-heart: #A50954;
+    --blue-heart: #ACD9B2;
+    --sm: 14px;
+    --md: 20px;
+    --lg: 60px
+}
+
+
+.title{
+    color: #FFF;
+    text-align: center;
+    font-family: Nunito;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.subtitle{
+    
+    color: #AFC0E2;
+    text-align: center;
+    font-family: Nunito;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    align-self: stretch;
+    
+}
+
+
+.caja2{
+    width: 714px;
+    height: 160px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #0D1423;
+}
+
+.caja3{
+    border-radius: 8px;
+background: #0D1423;
+    width: 343.5px;
+height: 160px;
+flex-shrink: 0;
+
+}
